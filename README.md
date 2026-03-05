@@ -1,4 +1,4 @@
-# PandaCoding — Windows
+# ClawKit — Windows
 
 Windows installer for [OpenClaw](https://openclaw.ai) configured to use the PandaCoding API.
 
@@ -11,7 +11,7 @@ See the [Releases](../../releases) page.
 ## Setup
 
 1. Get an API key at [pandacoding.cloud](https://pandacoding.cloud)
-2. Extract the zip and run `PandaCoding Setup 1.0.0.exe`
+2. Extract the zip and run `ClawKit Setup 1.0.0.exe`
 3. Enter your API key when prompted
 4. Run `claude` in your terminal
 
@@ -25,7 +25,7 @@ See the [Releases](../../releases) page.
 
 ## Uninstall
 
-Add/Remove Programs → PandaCoding, or run `uninstall.exe` in the install folder.
+Add/Remove Programs → ClawKit, or run `uninstall.exe` in the install folder.
 
 ## Support
 
