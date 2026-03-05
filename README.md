@@ -7,7 +7,7 @@ PandaCoding lets you run [Claude Code](https://claude.ai/code) — Anthropic's A
 ## What you get
 
 - Full Claude Code experience in your terminal
-- Access to Claude Opus 4, Sonnet 4, and Haiku
+- Access to Claude Opus 4.6, Sonnet 4.6, and Haiku 4.5
 - Pay per token — no monthly commitment
 - Windows installer, zero setup headache
 
