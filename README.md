@@ -4,24 +4,23 @@
 
 PandaCoding gives you full access to Claude Code at a fraction of the official price.
 
-## Download
+## Downloads
 
-**[Download ClawKit-1.0.0-win.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win.zip)** (550 MB)
+| Version | Language | Link |
+|---------|----------|------|
+| v1.0.0 | English (EU) | [ClawKit-1.0.0-win-en.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win-en.zip) |
+| v1.0.0 | Chinese | [ClawKit-1.0.0-win.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win.zip) |
 
 ## Install
 
-1. Download and extract `ClawKit-1.0.0-win.zip`
+1. Download and extract the zip
 2. Run `PandaCoding Setup 1.0.0.exe`
-3. Follow the installer — enter your API key when prompted
+3. Follow the installer — get your API key at [pandacoding.cloud](https://pandacoding.cloud)
 
 ## Requirements
 
 - Windows 10 / 11 (64-bit)
 - An API key from [pandacoding.cloud](https://pandacoding.cloud)
-
-## Get an API Key
-
-Sign up at **[pandacoding.cloud](https://pandacoding.cloud)** to get your API key.
 
 ---
 
