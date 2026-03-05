@@ -4,12 +4,9 @@
 
 PandaCoding gives you full access to Claude Code at a fraction of the official price.
 
-## Downloads
+## Download
 
-| Version | Language | Link |
-|---------|----------|------|
-| v1.0.0 | English (EU) | [ClawKit-1.0.0-win-en.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win-en.zip) |
-| v1.0.0 | Chinese | [ClawKit-1.0.0-win.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win.zip) |
+**[ClawKit-1.0.0-win-en.zip](https://pandacoding.cloud/downloads/ClawKit-1.0.0-win-en.zip)** (474 MB)
 
 ## Install
 
